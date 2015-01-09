@@ -3,6 +3,10 @@
 ## Domain: All functions & activities within the Circle
 
 
+### Játék az alkalmak elején
+
+Minden alkalommal hoz Szabi egy max 5 perces játékot.
+
 ### Governance on github
 
 A governance aktuális igaz állapotának helye: https://github.com/cassus/c43-governance (master branch)

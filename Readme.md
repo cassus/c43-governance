@@ -115,14 +115,6 @@ Integratív döntéshozással költsük a kör pénzét. Online is mehet, a gove
 - Alapértelmezetten az előadó a facilitátor, de kérhet segítséget a Facilitátortól, ha igénye van rá.
 
 
-### Async Loomio governance policy
-
-- Governance feszültségek aszinkron feldolgozására a Loomio szoftver használjuk.
-- A javaslatod a megnyitástól legalább 7 napot legyen nyitva az érvényességhez.
-- A javaslatodban konkrétan a policy/role/accountability változtatásokat fogalmazz meg. Ezeket a Titkár változtatás nélkül fogja átvezetni.
-- Ha nincs ellenvetés vagy új javaslatod a feszültségre, akkor írj a Titkárnak, hogy vezesse át a governance anyagok közé a döntést.
-
-
 ### Alapkör meeting kategóriák policy
 
 - Sztenderd kutatói/tudásmegosztó alkalmak: Kéthetente pénteken, pitcheljük hozzá a témákat, ez lehet módszertan megosztó és wholeness/bodywork is

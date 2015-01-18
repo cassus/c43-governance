@@ -8,7 +8,7 @@
 A governance aktuális igaz állapotának helye: https://github.com/circle43/c43-governance/ (master branch)
 
 #### Szinkron governance meetingen
-A titkár commit-olja a változásokat, a commit üzenetbe írd bele, hogy "```governance meeting 2015-01-18```".
+A titkár commit-olja a változásokat, a commit üzenetbe írd bele pl. hogy "```governance meeting 2015-01-18```" (aznapi dátummal).
 
 
 #### Aszinkron governance feszültségből
@@ -18,7 +18,7 @@ A titkár commit-olja a változásokat, a commit üzenetbe írd bele, hogy "```g
      Ha javaslat nélkül (pl. tudatosítással) feloldódott a feszültséged, akkor zárd le.
 
 #### Aszinkron governance javaslatból
-(ha van javaslatod, kezdheted rögtön innen a folyamatot)
+(ha van javaslatod, kezdd innen a folyamatot)
 Részletesebb howto: https://docs.google.com/document/d/1WYV0pi4_0X0OYGL6re2POyvKPGLDjp2n3QVIbYh4C5E/edit
 
 1. Nyiss új branch-et.

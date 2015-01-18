@@ -8,7 +8,7 @@
 A governance aktuális igaz állapotának helye: https://github.com/circle43/c43-governance/ (master branch)
 
 #### Szinkron governance meetingen
-A titkár commit-olja a változásokat, a commit üzenetbe írd bele, hogy governance meeting.
+A titkár commit-olja a változásokat, a commit üzenetbe írd bele, hogy "```governance meeting 2015-01-18```".
 
 
 #### Aszinkron governance feszültségből
@@ -19,13 +19,15 @@ A titkár commit-olja a változásokat, a commit üzenetbe írd bele, hogy gover
 
 #### Aszinkron governance javaslatból
 (ha van javaslatod, kezdheted rögtön innen a folyamatot)
+Részletesebb howto: https://docs.google.com/document/d/1WYV0pi4_0X0OYGL6re2POyvKPGLDjp2n3QVIbYh4C5E/edit
+
 1. Nyiss új branch-et.
 2. Változtass a javaslatodnak megfelelően
 3. Indíts pull request-et, írd bele a feszültségedet.
-4. A körtagoknak egy hetük van véleményezni, ellenvetéseket megfogalazni.
+4. A körtagoknak hét napjuk van véleményezni, ellenvetéseket megfogalazni.
  - Támogatásod :+1: jellel fejezheted például ki
  - Ellenvetésed :exclamation: jellel kezdd. Ezzel jelzed a javaslattevőnek, hogy a javaslata jelen formájában akadályozna egy szerep-küldetésed betöltésében
-5. Ha volt ellenvetés (vagy olyan ötletet kapnál amit szívesen beépítenél), változtatss a branch-en ahol a javaslatod van, ezzel újraindul a véleményezési idő.
+5. Ha volt ellenvetés (vagy olyan ötletet kapnál amit szívesen beépítenél), változtatss a branch-en ahol a javaslatod van, ezzel újraindul a véleményezési idő, frissül a "pull request"
 6. Ha nem volt ellenvetés, akkor fogadd el a pull request-et, ezzel a javaslatod bekerült a kormányzási anyagaink közé.
 
 ### Event policy

@@ -2,7 +2,6 @@
 
 ## Domain: All functions & activities within the Circle
 
-
 ### Governance on github
 
 A governance aktuális igaz állapotának helye: https://github.com/circle43/c43-governance/ (master branch)
@@ -46,7 +45,7 @@ A Governance és tudásmegosztó alkalmakat a Titkár hívja össze, 4-nél keve
 
 ### Bevonási / megfigyelési folyamat policy
 
-- A tagok meghívhatnak megfigyelőket, akik személyesen vagy Hangoutson részt vehetnek a találkozóinkon és a találkozó végén visszajelzésekkel, észrevételekkel hozzájárulhatnak a csoport működésének javításához.
+- A tagok meghívhatnak megfigyelőket, akik a találkozó végén visszajelzésekkel, észrevételekkel hozzájárulhatnak a csoport működésének javításához.
 - Aki először van itt, első néhány alkalommal csak megfigyelő lehet, utána kell bevonni tagként megfigyelőkkel az a célunk, hogy olyan embereket keressünk, akik később tagjai lesznek a szervezetnek, tevékenyen részt fognak venni a szervezet életében
 - legkésőbb 3 governance alkalom után vagy 2 hónapon belül döntenie kell a csoportnak, hogy befogadja-e tagnak a megfigyelőt. A megfigyelőnek nyilatkoznia kell, hogy elfogadja-e a leírt alapelveit a csoportnak. A döntést a jelenlévőknek egyhangúlag el kell fogadnia.
 - egy meetingen maximum 3 megfigyelő vehet részt

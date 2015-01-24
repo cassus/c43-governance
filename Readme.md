@@ -91,6 +91,11 @@ Bármely partner javasolhatja, hogy egy másik Partner, vagy ő maga milyen szer
 - külön spreadsheet fülön írjuk, hogy mikor lesz governance és tactical meeting
 - tactical témák hozzárendelve a dátumokhoz, valamint jelezzük, hogy ki az előadó és ki az aktuális megfigyelő az adott dátumnál
 
+### Játékok a találkozó elején Policy
+
+- Minden találkozó elején Szabolcs egy 5 perces játékot mutat be, ami segít a csapatnak megérkezni, jelen lenni, energiával telítődni.
+- A játék után a résztvevők visszajelzést adnak, hogy milyennek tartják a játékot.
+- Szabolcs a kipróbált játékokat dokumentálja.
 
 ### Választott szerepek + lead link negyedéves rotálása policy
 

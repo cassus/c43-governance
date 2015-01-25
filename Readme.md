@@ -24,9 +24,10 @@ Részletesebb howto: https://docs.google.com/document/d/1WYV0pi4_0X0OYGL6re2POyv
 1. Nyiss új branch-et.
 2. Változtass a javaslatodnak megfelelően
 3. Indíts pull request-et, írd bele a feszültségedet.
-4. A körtagoknak hét napjuk van véleményezni, ellenvetéseket megfogalazni.
+4. A körtagoknak három napjuk van véleményezni, ellenvetéseket megfogalazni.
+ - Ha nem olvasnád a javaslatot ebben a pár napban, az olyan mintha nem lettél volna ott a governance meetingen. Ha feszültségeded keletkezük a javaslatból, azt már nem ellenvetésként, hanem újabb feszültség-javaslat folyamattal fogjuk integrálni.
  - Támogatásod :+1: jellel fejezheted például ki
- - Ellenvetésed :exclamation: jellel kezdd. Ezzel jelzed a javaslattevőnek, hogy a javaslata jelen formájában akadályozna egy szerep-küldetésed betöltésében
+ - Ellenvetésed :exclamation: jellel kezdd. Ezzel jelzed a javaslattevőnek, hogy a javaslata jelen formájában akadályozna egy szerep-küldetésed betöltésében.
 5. Ha volt ellenvetés (vagy olyan ötletet kapnál amit szívesen beépítenél), változtatss a branch-en ahol a javaslatod van, ezzel újraindul a véleményezési idő, frissül a "pull request"
 6. Ha nem volt ellenvetés, akkor fogadd el a pull request-et, ezzel a javaslatod bekerült a kormányzási anyagaink közé.
 

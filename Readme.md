@@ -58,23 +58,6 @@ A Governance és tudásmegosztó alkalmakat a Titkár hívja össze, 4-nél keve
 
 Mi választjuk a leadlinket az integrált választási folyamattal.
 
-### Meghívó kezelés policy
-
-- az első 3 ember jöhet, aki leghamarabb jelzi a spreadsheetben, kiesés esetén FCFS
-- a meghívót a titkár küldi ki, ő frissíti, ha valaki lemondja
-
-
-### Nyári ütemezés policy
-
-Szeptemberig vigyük fel az eseményeket és mindenkinek legyen kötelező elutasítani vagy elfogadni.
-
-
-### Stratégia alkotás policy
-
-stratégiai fókuszt és hangsúlyokat negyedéves távra retro után határozunk meg
-facilitátor vezeti
-tagok kezdeményezhetik ennek a frissíŧését
-
 
 ### Szerep Partner összerendelés policy
 
@@ -86,25 +69,9 @@ Bármely partner javasolhatja, hogy egy másik Partner, vagy ő maga milyen szer
 2 hónap inaktivitás után megszűnik a tagság.
 
 
-### Témák a meetingekre policy
-
-- külön spreadsheet fülön írjuk, hogy mikor lesz governance és tactical meeting
-- tactical témák hozzárendelve a dátumokhoz, valamint jelezzük, hogy ki az előadó és ki az aktuális megfigyelő az adott dátumnál
-
-
-### Választott szerepek + lead link negyedéves rotálása policy
-
-Tartsunk választást negyedévente, hogy tanulási céllal rotáljuk a leadlink és az egyéb választott szerepeket betöltő személyt.
-
-
 ### Integratív döntéshozással költsük a kör pénzét policy
 
 Integratív döntéshozással költsük a kör pénzét. Online is mehet, a governance-hez hasonlóan.
-
-
-### Havi tagdíj policy
-
-500-5000 Ft intervallumban válaszható hogy havonta mennyivel járulnak hozzá a tagok a közös kasszához, amit be is kell fizetni
 
 
 ### Kutató alkalmak Policy

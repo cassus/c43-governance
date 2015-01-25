@@ -4,4 +4,4 @@
 ## Accountabilities
 - Gondozza a terméket.
 - Publikál a termékről.
-- "Eladja" az evolúciós ügynöknek.
+- "Eladja" a Tanácsadóanak.

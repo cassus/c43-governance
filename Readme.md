@@ -8,8 +8,8 @@
 
 ### Kommunikációs csatornáink
  - [Slack](https://c43.slack.com/) a mindennapi chat-re (Titkár meghív email alapján)
- - [Github](https://github.com/circle43/c43-governance) governance tárolásra és async governance döntéshozásra (Titkár meghív github username-el)
- - [Asana](https://app.asana.com) Feladatokra, projektekre és a kutató témák szavazására. (Titkár meghív email cím alapján)
+ - [Governance @ Github](https://github.com/circle43/c43-governance) governance tárolásra és async governance döntéshozásra. Itt vannak a körök, szerepek, policy-k, szerep-partner összerendelések. (Titkár meghív github username-el)
+ - [Asana](https://app.asana.com) Feladatok, projektek, metrikák, check listek és a kutató témák szavazása. (Titkár meghív email cím alapján)
  - [Facebook nyitott csoport](https://www.facebook.com/groups/616350458482023/) Inspiráló gondolatok a követőinknek. (szabadon csatlakozhatsz)
  - [Email lista](https://groups.google.com/forum/#!forum/circle43) ha valami emailben kell mindenkinek. (Titkár felír email címed alapján)
  - [Google drive](https://drive.google.com/drive/#folders/0B8_sIiXrO70Ob3NkeWExWk52aE0) közös doksiknak, videóknak. (Email lista alapján kapsz hozzáférést)

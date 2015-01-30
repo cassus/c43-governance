@@ -1,5 +1,8 @@
 The Lead Link Role shall be deemed to hold the Purpose of the overall Circle.
 
+#### Betölti
+ - Orbán Gergő
+
 ## Domains
 - Role assignments within the Circle
 

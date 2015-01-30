@@ -2,9 +2,15 @@
 
 ## Domain: All functions & activities within the Circle
 
+### Accountability:
+ - Pénzügyi témák kezelése
+ - Kapcsolatépítés külső szervezetekkel, egyénekkel
+
+
+### Governance meeting
+Governance az Titkár által erre összehívott meeting-en történik. Az egyéb feszültség és javaslat beszélgetéseket a következő governance megbeszélésre vagy async governance-be visszük be.
 
 ### Governance on github
-
 A governance aktuális igaz állapotának helye: https://github.com/circle43/c43-governance/ (master branch)
 
 #### Szinkron governance meetingen
@@ -19,16 +25,16 @@ A titkár commit-olja a változásokat, a commit üzenetbe írd bele pl. hogy "`
 
 #### Aszinkron governance javaslatból
 (ha van javaslatod, kezdd innen a folyamatot)
-Részletesebb howto: https://docs.google.com/document/d/1WYV0pi4_0X0OYGL6re2POyvKPGLDjp2n3QVIbYh4C5E/edit
 
-1. Nyiss új branch-et.
-2. Változtass a javaslatodnak megfelelően
-3. Indíts pull request-et, írd bele a feszültségedet.
-4. A körtagoknak hét napjuk van véleményezni, ellenvetéseket megfogalazni.
+HowTo: https://docs.google.com/document/d/1WYV0pi4_0X0OYGL6re2POyvKPGLDjp2n3QVIbYh4C5E/edit
+
+1. Szerkessz a javaslatodnak megfelelően, külön branch-re, és indíts hozzá pull request-et.
+2. A körtagoknak három napjuk van véleményezni, ellenvetéseket megfogalazni.
+ - Ha nem olvasnád a javaslatot ebben a pár napban, az olyan mintha nem lettél volna ott a governance meetingen. Ha feszültségeded keletkezük a javaslatból, azt már nem ellenvetésként, hanem újabb feszültség-javaslat folyamattal fogjuk integrálni.
  - Támogatásod :+1: jellel fejezheted például ki
- - Ellenvetésed :exclamation: jellel kezdd. Ezzel jelzed a javaslattevőnek, hogy a javaslata jelen formájában akadályozna egy szerep-küldetésed betöltésében
-5. Ha volt ellenvetés (vagy olyan ötletet kapnál amit szívesen beépítenél), változtatss a branch-en ahol a javaslatod van, ezzel újraindul a véleményezési idő, frissül a "pull request"
-6. Ha nem volt ellenvetés, akkor fogadd el a pull request-et, ezzel a javaslatod bekerült a kormányzási anyagaink közé.
+ - Ellenvetésed :exclamation: jellel kezdd. Ezzel jelzed a javaslattevőnek, hogy a javaslata jelen formájában akadályozna egy szerep-küldetésed betöltésében.
+3. Ha nem volt ellenvetés, akkor fogadd el a pull request-et, ezzel a javaslatod bekerült a kormányzási anyagaink közé.
+4. Ha volt ellenvetés (vagy olyan ötletet kapnál amit szívesen beépítenél), változtatss a branch-en ahol a javaslatod van, ezzel újraindul a véleményezési idő, frissül a "pull request" (ugrás a 2-es ponthoz)
 
 ### Event policy
 
@@ -46,7 +52,7 @@ A Governance és tudásmegosztó alkalmakat a Titkár hívja össze, 4-nél keve
 
 ### Bevonási / megfigyelési folyamat policy
 
-- A tagok meghívhatnak megfigyelőket, akik személyesen vagy Hangoutson részt vehetnek a találkozóinkon és a találkozó végén visszajelzésekkel, észrevételekkel hozzájárulhatnak a csoport működésének javításához.
+- A tagok meghívhatnak megfigyelőket, akik a találkozó végén visszajelzésekkel, észrevételekkel hozzájárulhatnak a csoport működésének javításához.
 - Aki először van itt, első néhány alkalommal csak megfigyelő lehet, utána kell bevonni tagként megfigyelőkkel az a célunk, hogy olyan embereket keressünk, akik később tagjai lesznek a szervezetnek, tevékenyen részt fognak venni a szervezet életében
 - legkésőbb 3 governance alkalom után vagy 2 hónapon belül döntenie kell a csoportnak, hogy befogadja-e tagnak a megfigyelőt. A megfigyelőnek nyilatkoznia kell, hogy elfogadja-e a leírt alapelveit a csoportnak. A döntést a jelenlévőknek egyhangúlag el kell fogadnia.
 - egy meetingen maximum 3 megfigyelő vehet részt
@@ -58,23 +64,6 @@ A Governance és tudásmegosztó alkalmakat a Titkár hívja össze, 4-nél keve
 
 Mi választjuk a leadlinket az integrált választási folyamattal.
 
-### Meghívó kezelés policy
-
-- az első 3 ember jöhet, aki leghamarabb jelzi a spreadsheetben, kiesés esetén FCFS
-- a meghívót a titkár küldi ki, ő frissíti, ha valaki lemondja
-
-
-### Nyári ütemezés policy
-
-Szeptemberig vigyük fel az eseményeket és mindenkinek legyen kötelező elutasítani vagy elfogadni.
-
-
-### Stratégia alkotás policy
-
-stratégiai fókuszt és hangsúlyokat negyedéves távra retro után határozunk meg
-facilitátor vezeti
-tagok kezdeményezhetik ennek a frissíŧését
-
 
 ### Szerep Partner összerendelés policy
 
@@ -85,31 +74,15 @@ Bármely partner javasolhatja, hogy egy másik Partner, vagy ő maga milyen szer
 
 2 hónap inaktivitás után megszűnik a tagság.
 
-
-### Témák a meetingekre policy
-
-- külön spreadsheet fülön írjuk, hogy mikor lesz governance és tactical meeting
-- tactical témák hozzárendelve a dátumokhoz, valamint jelezzük, hogy ki az előadó és ki az aktuális megfigyelő az adott dátumnál
-
 ### Játékok a találkozó elején Policy
 
 - Minden találkozó elején Szabolcs egy 5 perces játékot mutat be, ami segít a csapatnak megérkezni, jelen lenni, energiával telítődni.
 - A játék után a résztvevők visszajelzést adnak, hogy milyennek tartják a játékot.
 - Szabolcs a kipróbált játékokat dokumentálja a Circle43 weboldalon (http://circle43.com/category/jatek/).
 
-### Választott szerepek + lead link negyedéves rotálása policy
-
-Tartsunk választást negyedévente, hogy tanulási céllal rotáljuk a leadlink és az egyéb választott szerepeket betöltő személyt.
-
-
 ### Integratív döntéshozással költsük a kör pénzét policy
 
 Integratív döntéshozással költsük a kör pénzét. Online is mehet, a governance-hez hasonlóan.
-
-
-### Havi tagdíj policy
-
-500-5000 Ft intervallumban válaszható hogy havonta mennyivel járulnak hozzá a tagok a közös kasszához, amit be is kell fizetni
 
 
 ### Kutató alkalmak Policy
@@ -125,5 +98,6 @@ Integratív döntéshozással költsük a kör pénzét. Online is mehet, a gove
 - Sztenderd kutatói/tudásmegosztó alkalmak: Kéthetente pénteken, pitcheljük hozzá a témákat, ez lehet módszertan megosztó és wholeness/bodywork is
 - Igényvezérelt, egyedi kutatói/tudásmegosztó alkalmak: Nem pénteki időpontban, akárki kezdeményezheti, ha nem fér bele a mondani, vagy tanulnivalója a pénteki alkalmakba. Lehet módszertan megosztó és wholeness, bodywork is
 - Governance döntéshozó alkalom: Péntekenként, két-négyhetente governance. Csak a szükséges mértékig formalizál. Ez nyitott megfigyelő számára.
+  - Ha előbb végzünk, akkor tarthatunk adaptívan taktiakit vagy mást. Ha van még téma, akkor a governance témák prioritást élveznek.
 - Tactical döntéshozó alkalom: Péntekenként, kéthetente tactical. Csak a szükséges mértékig, csak a következő iterációig definiál feladatot, projektet. Ez nyitott megfigyelő számára.
 - Brainstorming és koncepcionáló alkalmak: Javaslat és stratégia előkészítésére alkalmas rugalmas napirendű alkalmak.

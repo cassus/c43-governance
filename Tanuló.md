@@ -1,5 +1,8 @@
 Ismeret alkalmazás, tapasztalatszerzés
 
+Betöltő emberek:
+ - BÁdám
+ - RÁdám
 
 ## Accountability
 

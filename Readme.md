@@ -74,6 +74,11 @@ Bármely partner javasolhatja, hogy egy másik Partner, vagy ő maga milyen szer
 
 2 hónap inaktivitás után megszűnik a tagság.
 
+### Játékok a találkozó elején Policy
+
+- Minden találkozó elején Szabolcs egy 5 perces játékot mutat be, ami segít a csapatnak megérkezni, jelen lenni, energiával telítődni.
+- A játék után a résztvevők visszajelzést adnak, hogy milyennek tartják a játékot.
+- Szabolcs a kipróbált játékokat dokumentálja a Circle43 weboldalon (http://circle43.com/category/jatek/).
 
 ### Integratív döntéshozással költsük a kör pénzét policy
 

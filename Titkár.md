@@ -1,6 +1,10 @@
 Stabilize the Circle’s Governance over time as a steward of the Circle’s formal records and record-keeping process.
 
 
+### Accountability:
+ - Kutató alkalmak szervezése
+
+
 ## Domains
 - All records required of a Circle under this Constitution, and any record-keeping processes and systems required to create and maintain such records for the Circle
 

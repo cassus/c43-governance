@@ -2,8 +2,15 @@
 
 ## Domain: All functions & activities within the Circle
 
-### Governance on github
+### Accountability:
+ - Pénzügyi témák kezelése
+ - Kapcsolatépítés külső szervezetekkel, egyénekkel
 
+
+### Governance meeting
+Governance az Titkár által erre összehívott meeting-en történik. Az egyéb feszültség és javaslat beszélgetéseket a következő governance megbeszélésre vagy async governance-be visszük be.
+
+### Governance on github
 A governance aktuális igaz állapotának helye: https://github.com/circle43/c43-governance/ (master branch)
 
 #### Szinkron governance meetingen
@@ -86,5 +93,6 @@ Integratív döntéshozással költsük a kör pénzét. Online is mehet, a gove
 - Sztenderd kutatói/tudásmegosztó alkalmak: Kéthetente pénteken, pitcheljük hozzá a témákat, ez lehet módszertan megosztó és wholeness/bodywork is
 - Igényvezérelt, egyedi kutatói/tudásmegosztó alkalmak: Nem pénteki időpontban, akárki kezdeményezheti, ha nem fér bele a mondani, vagy tanulnivalója a pénteki alkalmakba. Lehet módszertan megosztó és wholeness, bodywork is
 - Governance döntéshozó alkalom: Péntekenként, két-négyhetente governance. Csak a szükséges mértékig formalizál. Ez nyitott megfigyelő számára.
+  - Ha előbb végzünk, akkor tarthatunk adaptívan taktiakit vagy mást. Ha van még téma, akkor a governance témák prioritást élveznek.
 - Tactical döntéshozó alkalom: Péntekenként, kéthetente tactical. Csak a szükséges mértékig, csak a következő iterációig definiál feladatot, projektet. Ez nyitott megfigyelő számára.
 - Brainstorming és koncepcionáló alkalmak: Javaslat és stratégia előkészítésére alkalmas rugalmas napirendű alkalmak.

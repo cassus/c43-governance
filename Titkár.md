@@ -1,5 +1,7 @@
 Stabilize the Circle’s Governance over time as a steward of the Circle’s formal records and record-keeping process.
 
+#### Betölti
+ - Bankó Ádám
 
 ### Accountability:
  - Kutató alkalmak szervezése

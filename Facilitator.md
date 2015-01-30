@@ -1,5 +1,8 @@
 Circle governance and operational practices aligned with the core rules and processes of this Constitution.
 
+#### Betölti
+ - Emich Szabolcs
+
 ## Accountabilities
 
 - Facilitating the Circle’s Governance Meetings and Tactical Meetings in alignment with the rules of this Constitution, and enforcing such rules during such meetings as-needed

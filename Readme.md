@@ -6,6 +6,18 @@
  - Pénzügyi témák kezelése
  - Kapcsolatépítés külső szervezetekkel, egyénekkel
 
+### Kommunikációs csatornáink
+ - [Slack](https://c43.slack.com/) a mindennapi chat-re (Titkár meghív email alapján)
+ - [Governance @ Github](https://github.com/circle43/c43-governance) governance tárolásra és async governance döntéshozásra. Itt vannak a körök, szerepek, policy-k, szerep-partner összerendelések. (Titkár meghív github username-el)
+ - [Asana](https://app.asana.com) Feladatok, projektek, metrikák, check listek és a kutató témák szavazása. (Titkár meghív email cím alapján)
+ - [Facebook nyitott csoport](https://www.facebook.com/groups/616350458482023/) Inspiráló gondolatok a követőinknek. (szabadon csatlakozhatsz)
+ - [Email lista](https://groups.google.com/forum/#!forum/circle43) ha valami emailben kell mindenkinek. (Titkár felír email címed alapján)
+ - [Google drive](https://drive.google.com/drive/#folders/0B8_sIiXrO70Ob3NkeWExWk52aE0) közös doksiknak, videóknak. (Email lista alapján kapsz hozzáférést)
+ - [Meeting jegyzetek](https://docs.google.com/document/d/13LJqEVjGYBnVCP_f2wJZ49Tqe5SCjycU3L9s1d4SPGM/edit)
+ - [Alapdokumentum](https://docs.google.com/document/d/1oiRbQss9XWbBEMWM0dVr_C_xyC85Y7pWNdOf069XPEA/edit?usp=sharing) Ezt mutatjuk magunkról kifelé
+ - [Címtár](https://docs.google.com/spreadsheets/d/1azNnVAqpAy_hCPpUKo8MzpgtXCDoCtOF1JeapIjI0YM/edit?usp=sharing)
+ - [Google plus community](https://plus.google.com/communities/115605523706166693671) Már nem használjuk.
+
 
 ### Governance meeting
 Governance az Titkár által erre összehívott meeting-en történik. Az egyéb feszültség és javaslat beszélgetéseket a következő governance megbeszélésre vagy async governance-be visszük be.

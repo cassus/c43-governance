@@ -6,3 +6,4 @@ Ismeret alkalmazás, tapasztalatszerzés
 - igények meghatározása
 - a közösen validált tudás alkalmazása
 - visszajelzés a kutató szerepnek
+- Kutató alkalom témákra szavaz (```Kutató alkalmak Policy``` szerint)

@@ -111,6 +111,8 @@ Minden meeting elején:
 - Játék (lásd: Játékok a találkozó elején Policy)
 
 - Pénteki kutató alkalmak: Kb. kéthetente péntekenként, [pitcheljük hozzá a témákat](https://app.asana.com/0/16181283954886/16181283954886). Lehet módszertan megosztó és wholeness/bodywork is.
+- Meetup alkalom: C43-ban megszerzett tapasztalat és tudás megosztása.
+- Közösségi alkalom: C43 közösség építése, erősítése.
 - Igényvezérelt, egyedi kutatói/tudásmegosztó alkalmak: Nem pénteki időpontban, akárki kezdeményezheti, ha nem fér bele a mondani, vagy tanulnivalója a pénteki alkalmakba.
 - Governance döntéshozó alkalom: Péntekenként, havonta legalább egy governance. Max 3 vendég számára nyitott.
   - Ha előbb végzünk, akkor tarthatunk adaptívan taktiakit vagy mást. Ha van még téma, akkor a governance témák prioritást élveznek.

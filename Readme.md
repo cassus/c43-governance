@@ -105,11 +105,13 @@ Integratív döntéshozással költsük a kör pénzét. Online is mehet, a gove
 - Alapértelmezetten az előadó a facilitátor, de kérhet segítséget a Facilitátortól, ha igénye van rá.
 
 
-### Alapkör meeting kategóriák policy
+### Alapkör meeting típusok policy
 
-- Sztenderd kutatói/tudásmegosztó alkalmak: Kéthetente pénteken, pitcheljük hozzá a témákat, ez lehet módszertan megosztó és wholeness/bodywork is
-- Igényvezérelt, egyedi kutatói/tudásmegosztó alkalmak: Nem pénteki időpontban, akárki kezdeményezheti, ha nem fér bele a mondani, vagy tanulnivalója a pénteki alkalmakba. Lehet módszertan megosztó és wholeness, bodywork is
-- Governance döntéshozó alkalom: Péntekenként, két-négyhetente governance. Csak a szükséges mértékig formalizál. Ez nyitott megfigyelő számára.
+Minden meeting elején:
+- Játék (lásd: Játékok a találkozó elején Policy)
+
+- Pénteki kutató alkalmak: Kb. kéthetente péntekenként, [pitcheljük hozzá a témákat](https://app.asana.com/0/16181283954886/16181283954886). Lehet módszertan megosztó és wholeness/bodywork is.
+- Igényvezérelt, egyedi kutatói/tudásmegosztó alkalmak: Nem pénteki időpontban, akárki kezdeményezheti, ha nem fér bele a mondani, vagy tanulnivalója a pénteki alkalmakba.
+- Governance döntéshozó alkalom: Péntekenként, havonta legalább egy governance. Max 3 vendég számára nyitott.
   - Ha előbb végzünk, akkor tarthatunk adaptívan taktiakit vagy mást. Ha van még téma, akkor a governance témák prioritást élveznek.
-- Tactical döntéshozó alkalom: Péntekenként, kéthetente tactical. Csak a szükséges mértékig, csak a következő iterációig definiál feladatot, projektet. Ez nyitott megfigyelő számára.
 - Brainstorming és koncepcionáló alkalmak: Javaslat és stratégia előkészítésére alkalmas rugalmas napirendű alkalmak.

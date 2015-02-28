@@ -103,6 +103,8 @@ Integratív döntéshozással költsük a kör pénzét. Online is mehet, a gove
 - asana-ban gyűjtjük a Kutató alkalmakat, témákat
 - alkalmak elején agenda building után 5p-ben lehet pitchelni új témákat
 - Alapértelmezetten az előadó a facilitátor, de kérhet segítséget a Facilitátortól, ha igénye van rá.
+- a kutató alkalom minimum 1 héttel az alkalom előtt meg kell, hogy legyen hirdetve a Meetupon
+- a kutató alkalom előadásanyagát a találkozót követő 24 órában fel kell tölteni a Meetupra
 
 
 ### Alapkör meeting típusok policy

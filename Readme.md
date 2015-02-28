@@ -48,20 +48,6 @@ HowTo: https://docs.google.com/document/d/1WYV0pi4_0X0OYGL6re2POyvKPGLDjp2n3QVIb
 3. Ha nem volt ellenvetés, akkor fogadd el a pull request-et, ezzel a javaslatod bekerült a kormányzási anyagaink közé.
 4. Ha volt ellenvetés (vagy olyan ötletet kapnál amit szívesen beépítenél), változtatss a branch-en ahol a javaslatod van, ezzel újraindul a véleményezési idő, frissül a "pull request" (ugrás a 2-es ponthoz)
 
-### Event policy
-
-Ha találkozót hívsz össze, készíts hozzá calendar meghívót is.
-
-Így csináld:
-Google calendar-ban készítsd az eventet
-Az event kezdését 15 perccel a megcélzott tartalmi kezdés előttre állítsd, hogy legyen időnk kényelmesen megérkezni és a szándékunk szerinti időben kezdhessünk
-Hívd meg a circle43@googlegroups.com címet. Nyomj rá, hogy expand group, így telefonon/iCal-ban is láthatjuk ki mit jelzet vissza.
-Küldj emlékeztető emailt az esemény előtt legalább 4 nappal, ha kevés a YES.
-Mondd le legalább 2 nappal az esemény előtt, ha kevés a YES.
-
-
-A Governance és tudásmegosztó alkalmakat a Titkár hívja össze, 4-nél kevesebb YES számít kevésnek.
-
 ### Bevonási / megfigyelési folyamat policy
 
 - A tagok meghívhatnak megfigyelőket, akik a találkozó végén visszajelzésekkel, észrevételekkel hozzájárulhatnak a csoport működésének javításához.
@@ -86,34 +72,34 @@ Bármely partner javasolhatja, hogy egy másik Partner, vagy ő maga milyen szer
 
 2 hónap inaktivitás után megszűnik a tagság.
 
-### Játékok a találkozó elején Policy
-
-- Minden találkozó elején Szabolcs egy 5 perces játékot mutat be, ami segít a csapatnak megérkezni, jelen lenni, energiával telítődni.
-- A játék után a résztvevők visszajelzést adnak, hogy milyennek tartják a játékot.
-- Szabolcs a kipróbált játékokat dokumentálja a Circle43 weboldalon (http://circle43.com/category/jatek/).
-
 ### Integratív döntéshozással költsük a kör pénzét policy
 
 Integratív döntéshozással költsük a kör pénzét. Online is mehet, a governance-hez hasonlóan.
 
+## Találkozóinkhoz
 
-### Kutató alkalmak Policy
+### Találkozó összehívásához
 
-- 2 hetente, priorizáltan, igény (pull) vezérelen
-- asana-ban gyűjtjük a Kutató alkalmakat, témákat
-- alkalmak elején agenda building után 5p-ben lehet pitchelni új témákat
-- Alapértelmezetten az előadó a facilitátor, de kérhet segítséget a Facilitátortól, ha igénye van rá.
+Ha találkozót hívsz össze, készíts hozzá calendar meghívót is.
 
+Így csináld:
+- Google calendar-ban készítsd az eventet
+- Az event kezdését 15 perccel a megcélzott tartalmi kezdés előttre állítsd, hogy legyen időnk kényelmesen megérkezni és a szándékunk szerinti időben kezdhessünk
+- Hívd meg a circle43@googlegroups.com címet. Nyomj rá, hogy expand group, így telefonon/iCal-ban is láthatjuk ki mit jelzet vissza.
+
+### Játékok a találkozó elején Policy
+
+- Minden találkozó elején Szabolcs egy rövid játékot mutat be, ami segít a csapatnak megérkezni, jelen lenni, energiával telítődni.
+- A játék után a résztvevők visszajelzést adnak, hogy milyennek tartják a játékot.
+- Szabolcs a kipróbált játékokat dokumentálja a Circle43 weboldalon (http://circle43.com/category/jatek/).
 
 ### Alapkör meeting típusok policy
 
-Minden meeting elején:
-- Játék (lásd: Játékok a találkozó elején Policy)
-
-- Pénteki kutató alkalmak: Kb. kéthetente péntekenként, [pitcheljük hozzá a témákat](https://app.asana.com/0/16181283954886/16181283954886). Lehet módszertan megosztó és wholeness/bodywork is.
+- Kutató alkalmak: Személyes és közös tudásunk építése, integrálása.
+  - Kb. kéthetente péntekenként
+  - [pitcheljük hozzá a témákat](https://app.asana.com/0/16181283954886/16181283954886).
 - Meetup alkalom: C43-ban megszerzett tapasztalat és tudás megosztása.
-- Közösségi alkalom: C43 közösség építése, erősítése.
-- Igényvezérelt, egyedi kutatói/tudásmegosztó alkalmak: Nem pénteki időpontban, akárki kezdeményezheti, ha nem fér bele a mondani, vagy tanulnivalója a pénteki alkalmakba.
+- Közösségi alkalom: C43 közös-ség építése, erősítése. Minőségi találkozások testben és lélekben.
 - Governance döntéshozó alkalom: Péntekenként, havonta legalább egy governance. Max 3 vendég számára nyitott.
   - Ha előbb végzünk, akkor tarthatunk adaptívan taktiakit vagy mást. Ha van még téma, akkor a governance témák prioritást élveznek.
-- Brainstorming és koncepcionáló alkalmak: Javaslat és stratégia előkészítésére alkalmas rugalmas napirendű alkalmak.
+- Egyéb: Projekt vagy feszültség alapon akárki kezdeményezheti. Pénteki vagy nem pénteki időpontban.

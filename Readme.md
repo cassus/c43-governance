@@ -92,9 +92,11 @@ Bármely partner javasolhatja, hogy egy másik Partner, vagy ő maga milyen szer
 - A játék után a résztvevők visszajelzést adnak, hogy milyennek tartják a játékot.
 - Szabolcs a kipróbált játékokat dokumentálja a Circle43 weboldalon (http://circle43.com/category/jatek/).
 
-### Integratív döntéshozással költsük a kör pénzét policy
+### Pénz gyűjtés és költés Policy
+A körnek nincs saját bevétele amiből költhetnénk.
 
-Integratív döntéshozással költsük a kör pénzét. Online is mehet, a governance-hez hasonlóan.
+- Ha költeni szeretnénk, akkor arra a tagok között gyűjtést rendezünk. Ha elég pénz jön össze, akkor összegyűjtjük és elköltjük. Ha nem jön össze elég ígéret az adott célra, akkor nem költünk rá. (Crowdsourceing jellegűen)
+- A költés igényét érzékelő ember vagy egy kisebb csoport előre megfinanszírozhatja a kiadást, de ekkor övék a kockázata annak, hogy nem jön össze a gyűjtésből a teljes összeg.
 
 
 ### Kutató alkalmak Policy
